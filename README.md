@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/ara6i/card-component-responsive.git)
-- Live Site URL: (https://ara6i.github.io/card-component-responsive/)
+- Solution URL: https://github.com/ara6i/card-component-responsive.git
+- Live Site URL: https://ara6i.github.io/card-component-responsive/
 
 ## My process
 
