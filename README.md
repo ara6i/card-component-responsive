@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ara6i/card-component-responsive.git)
-- Live Site URL: [Add live site URL here](https://ara6i.github.io/card-component-responsive/)
+- Solution URL: [solution URL ](https://github.com/ara6i/card-component-responsive.git)
+- Live Site URL: [ live site URL](https://ara6i.github.io/card-component-responsive/)
 
 ## My process
 
@@ -61,10 +61,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 1](w3school.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+
+
 
 ## Author
 
