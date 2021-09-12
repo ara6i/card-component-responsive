@@ -29,7 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![]![Screenshot 2021-09-12 at 14-05-52 Document](https://user-images.githubusercontent.com/88967049/132982661-eacab5df-5197-41f2-ba17-a3437201e25f.png)
+
 
 
 
