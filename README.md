@@ -40,6 +40,9 @@ Users should be able to:
 - Live Site URL:
 
 ## My process
+---
+permalink: /index.html
+---
 
 ### Built with
 
